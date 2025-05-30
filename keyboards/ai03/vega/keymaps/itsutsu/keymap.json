@@ -154,7 +154,8 @@
         "features": {
             "bootmagic": true,
             "nkro": true,
-            "via": true
+            "via": true,
+            "mousekey": true
         },
         "debounce": 5,
         "build": {
